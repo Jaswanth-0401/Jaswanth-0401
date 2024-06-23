@@ -1,16 +1,24 @@
-## Hi there 👋
+###
 
-<!--
-**Jaswanth-0401/Jaswanth-0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">I am Jaswanth Kumar.</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Jaswanth, a CS student 👋<br><br>- 🔭 I'm a Front-End Developer and designer<br>- 📚I'm currently learning about Back-End development <br>- ⚡ Meta Certified Front-End developer.<br>- 💻 Looking for freelance projects.</p>
+
+###
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jaswanth-kumar-v0401/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/jaswanth0401?igshid=MzNlNGNkZWQ4Mg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+### 🌠 Thank You!
