@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Jaswanth, a CS student 👋<br><br>- 🔭 I'm a Front-End Developer and designer<br>- 📚I'm currently learning about Back-End development <br>- ⚡ Meta Certified Front-End developer.<br>- 💻 Looking for freelance projects.</p>
+<p align="left">I'm Jaswanth, a CS student 👋<br><br>- 🔭 I'm a Software Engineer<br>- ⚡ Meta Certified Front-End developer.<br>- 💻 Looking for freelance projects.</p>
 
 ###
 
