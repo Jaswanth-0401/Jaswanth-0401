@@ -6,7 +6,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <br><br>- 🔭 I'm a Software Engineer<br>- ⚡ Meta Certified Front-End developer.<br>- 💻 Looking for freelance projects.</p>
 
